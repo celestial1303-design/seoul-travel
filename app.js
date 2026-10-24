@@ -227,9 +227,9 @@ const defaultItinerary = [
   },
   {
     "day": 3,
-    "title": "第三天：朝鮮歷史風華與傳統舌尖漫步（景福宮 ＆ 土俗村蔘雞湯 ＆ 廣藏市場）",
+    "title": "第三天：朝鮮歷史風華與時尚潮流美學（景福宮 ＆ 土俗村蔘雞湯 ＆ 漢南洞探店漫遊）",
     "dateHint": "Day 3",
-    "summary": "換穿精緻韓服探訪朝鮮正宮「景福宮」，中午大啖首爾最傳奇的名店「土俗村蔘鷄湯」補氣暖身！午後漫步「北村韓屋村」古典巷弄與世界遺產「昌德宮／秘苑」，晚間前進熱鬧喧騰的「廣藏市場」盡享道地平民小吃！",
+    "summary": "換穿精緻韓服探訪朝鮮正宮「景福宮」，中午大啖首爾最傳奇的名店「土俗村蔘鷄湯」補氣暖身！午後漫步「北村韓屋村」古典巷弄與世界遺產「昌德宮／秘苑」，傍晚前往頂級設計與小眾時尚潮流重鎮「漢南洞」，盡享探店購物與道地人氣晚餐！",
     "spots": [
       {
         "id": "d3-s1",
@@ -293,16 +293,16 @@ const defaultItinerary = [
       },
       {
         "id": "d3-s5",
-        "name": "廣藏市場 (夜市小吃美食巡禮)",
-        "nameKr": "광장시장",
-        "type": "food",
-        "typeName": "傳統市集",
-        "time": "18:00 晚餐",
-        "transitNotice": null,
-        "desc": "首爾歷史最悠久的傳統市集之一，充滿道地熱騰騰的人間煙火氣。坐在攤位木板凳上，親眼看阿珠媽現煎金黃香脆的綠豆煎餅，令人食指大動！",
-        "tips": "😋 必吃推薦：順熙家綠豆煎餅 (빈대떡)、富村生牛肉配活章魚 (米其林推薦)、元祖鮪魚起司裸飯捲 (마약김밥)、現炸糯米麻花捲 (꽈배기)！",
-        "naverQuery": "광장시장",
-        "googleQuery": "Gwangjang Market",
+        "name": "漢南洞潮流街區漫遊 ＆ 晚餐美食巡禮",
+        "nameKr": "한남동 카페거리 & 쇼핑거리",
+        "type": "shopping",
+        "typeName": "潮流美學與名店",
+        "time": "17:30 - 20:30 晚間",
+        "transitNotice": "🚇 交通建議：從安國站／鐘路三街搭乘地鐵至「漢江鎮站 (한강진역)」3 號出口，出站即可漫步進入漢南洞潮流核心圈！",
+        "desc": "首爾目前最具人氣的小眾設計師品牌聚落與時髦藝文街區！巷弄依山丘起伏，林立著眾多當紅人氣旗艦店（如 Mardi Mercredi、emis 棒球帽、Rockfish Weatherwear 英倫雪靴、Marithé François Girbaud、NONFICTION 與 TAMBURINS 香氛），以及氛圍感極佳的現代咖啡館與特色餐廳。",
+        "tips": "🛍️ 逛街與美食推薦：\n① 必逛品牌：Mardi Mercredi（招牌小雛菊 T 恤/大學 T）、emis（韓星同款老帽）、Rockfish、Depound、Beaker 選品店；\n② 晚餐推薦：排隊名店「漢南洞韓方烤雞」(한남동한방통닭，炭火烤香、肚子塞滿糯米)、人氣精緻韓定食「Parc (빠르크)」或知名「Downtowner」手工漢堡；\n③ 甜點咖啡：Anthracite 漢南店、MTL (More Than Less) 品嚐美味肉桂捲與咖啡！",
+        "naverQuery": "한남동 카페거리",
+        "googleQuery": "Hannam-dong Cafe Street Seoul",
         "completed": false,
         "note": ""
       }
@@ -310,9 +310,9 @@ const defaultItinerary = [
   },
   {
     "day": 4,
-    "title": "第四天：江南現代時尚新地標 ＆ 潮流聖水洞 ＆ 東大門玩具街與特色小吃",
+    "title": "第四天：江南現代時尚 ＆ 聖水洞潮流 ＆ 東大門玩具街 ＆ 廣藏市場夜市小吃巡禮",
     "dateHint": "Day 4",
-    "summary": "造訪震撼視覺的「Coex 星空圖書館」，中午品嚐米其林推薦「Boreumsae」頂級熟成韓牛料理；下午探索潮流核心「聖水洞」咖啡街與概念店，傍晚尋訪「昌信洞文具玩具街」趣味挖寶，夜宿前漫遊東大門大啖特色小吃！",
+    "summary": "造訪震撼視覺的「Coex 星空圖書館」，中午品嚐米其林推薦「Boreumsae」頂級熟成韓牛料理；下午探索潮流核心「聖水洞」咖啡街與概念店，傍晚尋訪「昌信洞文具玩具街」趣味挖寶與東大門商圈，夜晚前往熱鬧喧騰的「廣藏市場」盡享道地經典平民小吃！",
     "bannerImg": "coex.jpg",
     "bannerCaption": "江南地標 · Coex Mall 星空圖書館",
     "spots": [
@@ -378,16 +378,31 @@ const defaultItinerary = [
       },
       {
         "id": "d4-s5",
-        "name": "東大門商圈漫遊 ＆ 在地特色小吃",
-        "nameKr": "동대문디자인플라자 (DDP) & 동대문 로컬 맛집",
-        "type": "food",
-        "typeName": "夜景與美食",
+        "name": "東大門商圈漫遊 ＆ DDP 設計廣場夜景",
+        "nameKr": "동대문디자인플라자 (DDP) & 동대문 쇼핑거리",
+        "type": "attraction",
+        "typeName": "建築夜景與商圈",
         "time": "18:30 晚間",
         "transitNotice": null,
-        "desc": "漫步札哈·哈蒂設計的流線型外星飛船巨型建築「東大門設計廣場 (DDP)」，傍晚科技感點燈美不勝收。隨後深入探索東大門在地特色小吃，感受越夜越美麗的不夜城！",
-        "tips": "🍲 在地小吃推薦：①「陳玉華老奶奶元祖一隻雞」(蒜香甘甜清燉全雞＋年糕)；② 昌信洞「元祖辛辣豬腳」(창신동 매운족발，炭香火辣超下酒)；③ 東大門獵奇辣炒年糕；④ DDP 周邊不夜城商圈路邊攤烤肉串與黑輪！",
+        "desc": "漫步札哈·哈蒂設計的流線型外星飛船巨型建築「東大門設計廣場 (DDP)」，傍晚科技感點燈美不勝收。隨後穿梭東大門商圈與都塔免稅周邊，感受越夜越美麗的不夜城氛圍！",
+        "tips": "🌃 夜遊推薦：DDP 未來感建築外觀是絕佳打卡聖地；參觀完畢後可沿著清溪川步道漫步約 15 分鐘，或搭乘地鐵 1 號線（東大門站 ➔ 鐘路五街站，僅 1 站）前往廣藏市場享受宵夜！",
         "naverQuery": "동대문디자인플라자",
         "googleQuery": "Dongdaemun Design Plaza",
+        "completed": false,
+        "note": ""
+      },
+      {
+        "id": "d4-s6",
+        "name": "廣藏市場 (夜市小吃美食巡禮)",
+        "nameKr": "광장시장",
+        "type": "food",
+        "typeName": "傳統市集宵夜",
+        "time": "20:00 晚間小吃",
+        "transitNotice": "🚶 步行/地鐵：從東大門站搭乘地鐵 1 號線至「鐘路五街站」8 號出口即達，或沿清溪川夜景散步約 15 分鐘！",
+        "desc": "首爾歷史最悠久的傳統市集之一，充滿道地熱騰騰的人間煙火氣。坐在攤位木板凳上，親眼看阿珠媽現煎金黃香脆的綠豆煎餅，令人食指大動！在第四天夜晚大啖生牛肉與傳統小吃，為一整天的行程劃下最完美的宵夜句點！",
+        "tips": "😋 必吃推薦：順熙家綠豆煎餅 (빈대떡)、富村生牛肉配活章魚 (米其林推薦)、元祖鮪魚起司裸飯捲 (마약김밥)、現炸糯米麻花捲 (꽈배기)！",
+        "naverQuery": "광장시장",
+        "googleQuery": "Gwangjang Market",
         "completed": false,
         "note": ""
       }
@@ -607,7 +622,7 @@ const survivalPhrases = [
 // App State Management
 class TravelApp {
   constructor() {
-    this.storageKey = "seoul_travel_itinerary_v5";
+    this.storageKey = "seoul_travel_itinerary_v6";
     this.packingKey = "seoul_packing_list_v1";
     this.rateKey = "seoul_currency_rate_v1";
     this.themeKey = "seoul_theme_mode_v1";
@@ -618,6 +633,7 @@ class TravelApp {
       localStorage.removeItem("seoul_travel_itinerary_v2");
       localStorage.removeItem("seoul_travel_itinerary_v3");
       localStorage.removeItem("seoul_travel_itinerary_v4");
+      localStorage.removeItem("seoul_travel_itinerary_v5");
     } catch(e) {}
 
     this.activeDay = 0; // 0 means all days, 1..5 for specific day
